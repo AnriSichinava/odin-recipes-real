@@ -1,0 +1,17 @@
+*{
+    background-color: antiquewhite;
+    font-family: monospace;
+}
+.image{
+    width:300px;
+    height: auto;
+}
+.heading-text{
+    color: rgb(62, 137, 222);
+    text-align: center;
+}
+p,
+li{
+    font-size: 13px;
+    color: rgb(158, 115, 24);
+}
